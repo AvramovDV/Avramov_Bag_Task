@@ -1,0 +1,11 @@
+using UnityEngine;
+
+namespace Avramov.Bag
+{
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME#
+{
+    #NOTRIM#
+}
+#ROOTNAMESPACEEND#
+}
