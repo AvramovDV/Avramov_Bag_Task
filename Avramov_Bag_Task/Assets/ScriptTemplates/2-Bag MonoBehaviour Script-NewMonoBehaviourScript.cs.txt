@@ -1,16 +1,9 @@
 using UnityEngine;
 
     #ROOTNAMESPACEBEGIN#
-public class #SCRIPTNAME# : MonoBehaviour
+namespace Avramov.Bag
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        #NOTRIM#
-    }
-
-    // Update is called once per frame
-    void Update()
+    public class #SCRIPTNAME# : MonoBehaviour
     {
         #NOTRIM#
     }

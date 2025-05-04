@@ -1,12 +1,12 @@
 using UnityEngine;
 
+    #ROOTNAMESPACEBEGIN#
 namespace Avramov.Bag
 {
-    #ROOTNAMESPACEBEGIN#
-[CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "Avramov_Bag/#SCRIPTNAME#")]
-public class #SCRIPTNAME# : ScriptableObject
-{
-    #NOTRIM#
+    [CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "Avramov_Bag/#SCRIPTNAME#")]
+    public class #SCRIPTNAME# : ScriptableObject
+    {
+        #NOTRIM#
+    }
 }
 #ROOTNAMESPACEEND#
-}
